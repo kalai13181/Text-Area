@@ -5,6 +5,6 @@ I’ve built a custom textarea component using HTML, CSS, and JavaScript, focusi
 
 This project was a great opportunity to improve my JavaScript DOM manipulation skills and dive deeper into styling interactive elements.
 
-💻 Live Demo : 
+💻 Live Demo : https://kalai13181.github.io/Text-Area/
 
 I’d love to hear your feedback or thoughts on this project! Let’s connect and collaborate. 🚀
